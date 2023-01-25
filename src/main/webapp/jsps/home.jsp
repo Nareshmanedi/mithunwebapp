@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Bengaluru,Karnataka,India. Git hub webhook changes.</h1>
+<h1 align="center">Welcome to Mithun Technologies. Bengaluru,Karnataka,India. GitHub Webhook Changes.</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India</h1>
 <hr>
 <br>
